@@ -19,7 +19,7 @@ st.markdown("""
                      -webkit-background-clip: text;
                      -webkit-text-fill-color: transparent;
                      background-clip: text;
-                     font-weight: bold;'>HR Dashboard report</span>
+                     font-weight: bold;'>HR DASHBOARD REPORT</span>
     </h1>
 """, unsafe_allow_html=True)
 
@@ -401,4 +401,5 @@ with col_dl3:
                        file_name="filtered_data.csv", mime="text/csv")
 
 st.markdown("</div>", unsafe_allow_html=True)
+
 
